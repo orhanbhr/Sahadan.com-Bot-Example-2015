@@ -29,3 +29,5 @@ BotX.php class dosyasını açarak, OOP bilginiz var ise düzenleyebilirsiniz. S
 <strong>Sistem Gereksinimleri Nedir?</strong>
 
 Sistem sadece <strong>PHP 5.6</strong> sürümü istemektedir, hiçbir şekilde şifrelenmiş dosya bulunmadığından <strong>ioncube</strong>'e gerek yoktur.
+
+Website: orhanbhr.com && orhanbahar.com.tr
